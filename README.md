@@ -4,3 +4,11 @@ The main goal of this challenge was to use the Data from the Citi Bike Programme
 ## Results
 ### Trip Duration
 ![times_for_users.png](https://github.com/Smayorga97/bikesharing/blob/main/Images/times_for_users.png)
+### Times By Gender
+![times_by_gender.png](https://github.com/Smayorga97/bikesharing/blob/main/Images/times_by_gender.png)
+### Trip By Gender By Weekend
+![tips_by_gender_by_weekend.png](https://github.com/Smayorga97/bikesharing/blob/main/Images/tips_by_gender_by_weekend.png)
+### Trips By Gender
+![trips_by_gender.png](https://github.com/Smayorga97/bikesharing/blob/main/Images/trips_by_gender.png)
+### Trips By Weekday Per Day
+![trips_by_weekday_per_day.png](https://github.com/Smayorga97/bikesharing/blob/main/Images/trips_by_weekday_per_day.png)
