@@ -19,3 +19,5 @@ It can be concluded that the service is used mostly between 7-9 AM and 4-7 PM, w
 This view gives an idea of the times when the service is used the most, it shows that Monday to Friday it is used to commute and the Saturday and Sunday for Recreational purposes.
 ## Summary
 I believe that the results show the purpose of the Citi Bike service, it is used during the week to commute to work and then in the weekends is used for recreational purposes. two additional visualizations for future Analysis would be to find the specific gender use during the weekend and also during 7-9 am and 4-7 pm.
+For more information please visit the following link:
+[link to dashboard](https://public.tableau.com/app/profile/santiago.mayorga/viz/NYCCitibikeAnalysysStory/NYCCitibikeAnalysysStory)
